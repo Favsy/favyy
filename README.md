@@ -49,7 +49,10 @@
 </div>
 
 ###
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Favsy/Favsy/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Favsy/Favsy/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Favsy/favyy/snake-output/snake.svg" alt="Snake animation" />
 
