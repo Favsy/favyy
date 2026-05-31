@@ -12,10 +12,7 @@
 - Open to feedback and collaboration
 
 ###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Favsy/Favsy/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Favsy/Favsy/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+
 
 
 <img align="right" height="150" src="https://media1.tenor.com/m/1hXQhIfoKj8AAAAC/headpatsforklee-furina.gif" />
