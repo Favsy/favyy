@@ -46,6 +46,9 @@
 ###
 
 <br clear="both">
-![Snake animation](https://raw.githubusercontent.com/favyy/favyy/snake-output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/favyy/favyy/snake-output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/favyy/favyy/snake-output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
