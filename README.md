@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://media.tenor.com/D6WzWwn2ea8AAAAM/focalors-hydro-archon.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/1hXQhIfoKj8AAAAC/headpatsforklee-furina.gif" />
 
 ###
 
